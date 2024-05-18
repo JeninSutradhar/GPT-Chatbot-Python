@@ -6,6 +6,9 @@ This repository contains a simple graphical user interface (GUI) application tha
 - Interaction with ChatGPT API to get answers
 - Easy to use: Type a question and get an answer
 
+![image](https://github.com/JeninSutradhar/GPT-Chatbot-Python/assets/111521642/d168665a-f09d-42bc-90f5-c287e45f6e8c)
+
+
 ## Prerequisites
 - Python 3.x
 - requests library
