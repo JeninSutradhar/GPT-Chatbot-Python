@@ -51,6 +51,7 @@ def send_question():
         question_entry.delete("1.0", END)
         question_entry.focus()
 
+# Graphical User Interface
 def create_gui():
     global window
     window = tk.Tk()
